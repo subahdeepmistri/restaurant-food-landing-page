@@ -3,7 +3,7 @@
 A modern, responsive food blog and restaurant landing page featuring a stunning glassmorphism design.
 
 ## Live Demo
-[View Live Site](https://effervescent-tiramisu-090906.netlify.app/) (Assuming deployment)
+[View Live Site]([https://effervescent-tiramisu-090906.netlify.app/](https://restaurant-food-landing-page.netlify.app/)) (Assuming deployment)
 
 ## Features
 - **Glassmorphism Design**: Frosted glass effects on headers, cards, and containers.
